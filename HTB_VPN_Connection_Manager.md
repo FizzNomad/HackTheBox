@@ -1,6 +1,6 @@
 # HTB VPN Connection Manager
 
-This set of Bash functions simplifies the process of connecting and disconnecting from the Hack The Box (HTB) VPN. It provides an easy way to select the desired `.ovpn` configuration file when starting the connection, and a convenient way to disconnect when you're done.
+This set of Bash functions simplifies the process of connecting and disconnecting from the Hack The Box (HTB) VPN. It's an easy way to select the desired `.ovpn` configuration file when starting a connection, and an easy way to disconnect when you're done.
 
 ## Functions
 
